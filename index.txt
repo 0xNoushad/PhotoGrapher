@@ -1,4 +1,4 @@
-Richard Ryan
+Reyden 
 
 This is a photographer portfolio html template, made by codewithsadee.
 
@@ -6,12 +6,12 @@ This is a photographer portfolio html template, made by codewithsadee.
 
 #---------- HEADER ----------#
 
-alt = Richard home
+alt = Reydenhome
 
 aria-label = open menu
 alt = menu icon
 
-alt = Richard home
+alt = Reydenhome
 
 aria-label = close menu
 
@@ -36,7 +36,7 @@ Urgent issue? call us at
 
 #---------- HERO ----------#
 
-Richard Ryan
+ReydenRyan
 
 Photographer
 Shutterbug
@@ -99,7 +99,7 @@ Health & Wellnes.
 #---------- CATEGORY ----------#
 
 Hi. I’m
-Richard Ryan
+ReydenRyan
 
 A passionate
 photograher
@@ -109,7 +109,7 @@ I’m ready to give you my best.
 
 alt = signature
 
-alt = Riachard Ryan
+alt = RiachardReyden
 
 
 
@@ -171,7 +171,7 @@ alt = photography
 
 #---------- FOOTER ----------#
 
-alt = Richard home
+alt = Reydenhome
 
 Fa.
 Insta.
